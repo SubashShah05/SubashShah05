@@ -71,13 +71,20 @@ I'm a passionate Computer Science student who enjoys building modern, scalable w
 
 ---
 
-# 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/subash-shah-dev">💼 LinkedIn</a> •
-<a href="suwashshah5@gmail.com">📧 Email</a> •
-<a href="https://leetcode.com/u/QGY5MZbGtl/">🧩 LeetCode</a> •
-
+  <a href="https://linkedin.com/in/subash-shah-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:suwashshah5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/QGY5MZbGtl/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
