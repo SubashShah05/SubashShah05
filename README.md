@@ -11,7 +11,7 @@
 
 # 👨‍💻 About Me
 
-I'm a passionate Computer Science student who enjoys building modern, scalable web applications using the MERN Stack. I love transforming ideas into real-world products, solving algorithmic challenges, and continuously learning new technologies.
+I'm a Computer Science student who enjoys building web applications using the MERN Stack. I like solving coding problems, learning new technologies, exploring Generative AI, and creating projects that solve real-world problems.
 
 - 🚀 Building full-stack web applications with the MERN Stack
 - 💻 Strong foundation in Java, JavaScript, and Data Structures & Algorithms
@@ -23,7 +23,7 @@ I'm a passionate Computer Science student who enjoys building modern, scalable w
 
 ---
 
-# 🛠️ Technical Arsenal
+# 💻 Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
