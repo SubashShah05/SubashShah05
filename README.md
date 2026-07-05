@@ -58,12 +58,6 @@ I'm a Computer Science student who enjoys building web applications using the ME
 
 ---
 
-# 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SubashShah05&theme=tokyonight" />
-</p>
-
----
 
 <h2>🌐 Connect With Me</h2>
 
