@@ -3,12 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Java+Developer;Problem+Solver;Open+Source+Learner;Computer+Science+Student" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubashShah05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
-
 # 👨‍💻 About Me
 
 I'm a Computer Science student who enjoys building web applications using the MERN Stack. I like solving coding problems, learning new technologies, exploring Generative AI, and creating projects that solve real-world problems.
@@ -64,7 +59,6 @@ I'm a Computer Science student who enjoys building web applications using the ME
 ---
 
 # 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SubashShah05&theme=tokyonight" />
 </p>
