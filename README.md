@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subash Shah</h1>
-<h3 align="center">Full Stack MERN Developer | Java | DSA Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Java+Developer;Problem+Solver;Open+Source+Learner;Computer+Science+Student" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SubashShah05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -58,15 +60,6 @@ I'm a passionate Computer Science student who enjoys building modern, scalable w
 - REST API
 
 🔗 **Repository:** https://github.com/SubashShah05
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SubashShah05&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashShah05&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
