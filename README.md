@@ -59,21 +59,21 @@ I'm a Computer Science student who enjoys building web applications using the ME
 ---
 
 
-<h2>🌐 Connect With Me</h2>
+## 📫 How to Reach Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/subash-shah-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:suwashshah5@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/QGY5MZbGtl/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40" alt="LeetCode"/>
-  </a>
-</p>
+<a href="mailto:suwashshah5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<br><br>
+
+<a href="https://linkedin.com/in/subash-shah-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<br><br>
+
+<a href="https://leetcode.com/u/QGY5MZbGtl/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
 ---
 
